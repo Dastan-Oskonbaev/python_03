@@ -1,0 +1,13 @@
+Hello World
+Bye Bye
+banana
+cherry
+apricot
+kiwi
+watermelon
+orange
+123456
+!@#$
+pineapple
+apple
+cat
