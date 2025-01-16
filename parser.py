@@ -248,4 +248,7 @@
 #     scraper.parse()
 #     scraper.save_to_csv("products.csv")
 #
-#     print("Данные успешно сохранены в файл 'products.csv'.")
+#     print("Данные успешно сохранены в файл 'products.cfsv'.")
+
+
+sdfgbfdgbvdsfvjdnfvbjs
